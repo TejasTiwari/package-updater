@@ -6,7 +6,7 @@ This package's intent is to automatically create pull requests after a version o
 ## Installation
 
 To run this app you should follow such steps:
-1. Clone this repository via `git clone git@github.com:knidarkness/package-updater.git` 
+1. Clone this repository via `https://github.com/TejasTiwari/package-updater.git` 
 2. Install packages by `npm install`
 3. Create .env file with following contents:
 ```
